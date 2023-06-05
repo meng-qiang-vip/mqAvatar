@@ -1,7 +1,7 @@
 {
     "name": "mq/avatar",
     "description": "第一个扩展包",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
